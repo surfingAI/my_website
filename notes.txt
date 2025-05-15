@@ -1,0 +1,1 @@
+-> To initialize the node.js server, first run this bash command: npm init -y
